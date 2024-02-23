@@ -9,7 +9,7 @@
 ## Experiencia Laboral
 ### Administrador de Redes
 
-En mi puesto actual, desempeño una variedad de responsabilidades cruciales para la infraestructura de red de la empresa, incluyendo:
+En esta posicion, desempeño una variedad de responsabilidades cruciales para la infraestructura de red de la empresa, incluyendo:
 - Diseño e implementación de topologías de red.
 - Configuración de políticas de seguridad y firewalls.
 - Optimización del rendimiento de la red y gestión del ancho de banda.
