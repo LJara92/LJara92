@@ -1,6 +1,6 @@
 # Lautaro Jara - Administrador de Redes
 
-¡Hola! Soy Lautaro Jara, un apasionado de la tecnología con experiencia sólida como Administrador de Redes. Actualmente, trabajo en Aerolíneas Argentinas, S.A. en Buenos Aires, Argentina. En este README, encontrarás información sobre mis habilidades, experiencia laboral y logros destacados.
+¡Hola! Soy Lautaro Jara, un apasionado de la tecnología con experiencia sólida como Administrador de Redes. Actualmente trabajo para una gran aerolinea en Buenos Aires, Argentina. En este README, encontrarás información sobre mis habilidades, experiencia laboral y logros destacados.
 
 ## Contacto
 - **Nombre:** Lautaro Jara
