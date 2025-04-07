@@ -1,4 +1,4 @@
-![Banner](https://gifdb.com/images/high/welcome-glitch-discord-banner-hl7s407jzttlsf4b.gif)
+![Banner](/Banner.gif)
 
 # 👋 ¡Hola! Soy Lautaro Jara
 
