@@ -72,6 +72,5 @@ Mi enfoque: **crear soluciones robustas, simples y seguras**. Ya sea configurand
 
 ---
 
-> “La verdadera grandeza de un líder se mide por su impacto, no por un puesto.”  
-> 🧠 Buscando siempre aprender más, compartir conocimientos y construir redes (¡en ambos sentidos!).
+> 🧠 Buscando siempre aprender más, compartir conocimientos y construir redes (¡en ambos sentidos!)
 
