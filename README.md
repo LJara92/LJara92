@@ -29,6 +29,10 @@ Mi enfoque: **crear soluciones robustas, simples y seguras**. Ya sea configurand
 
 💥 **Manos en el código, mente en la seguridad:**
 
+🦜 [**AutoParrotBSPWM**](https://github.com/LJara92/AutoParrotBSPWM)
+  Script automatizado para configurar un entorno de trabajo con BSPWM en Linux.
+  *Transforma tu escritorio en una experiencia eficiente y personalizada con facilidad.*
+
 - 🧠 [**HackTheBox**](https://github.com/LJara92/HackTheBox)  
   Mis writeups, scripts y aprendizajes del mundo del hacking ético.  
   *Porque el mejor lab es el que te pone a prueba.*
