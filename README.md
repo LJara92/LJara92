@@ -30,11 +30,11 @@ Mi enfoque: **crear soluciones robustas, simples y seguras**. Ya sea configurand
 💥 **Manos en el código, mente en la seguridad:**
 
 - 🔒 [**OverTheWire**](https://github.com/LJara92/OverTheWire)
-  Mis soluciones y aprendizajes de los retos de OverTheWire, una plataforma de ciberseguridad y hacking ético.
+  Mis soluciones y aprendizajes de los retos de OverTheWire, una plataforma de ciberseguridad y hacking ético.   
   *Mejora tus habilidades en hacking ético a través de desafíos prácticos.*
 
 - 🦜 [**AutoParrotBSPWM**](https://github.com/LJara92/AutoParrotBSPWM)
-  Script automatizado para configurar un entorno de trabajo con BSPWM en Linux.
+  Script automatizado para configurar un entorno de trabajo con BSPWM en Linux.  
   *Transforma tu escritorio en una experiencia eficiente y personalizada con facilidad.*
 
 - 🧠 [**HackTheBox**](https://github.com/LJara92/HackTheBox)  
